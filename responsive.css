@@ -1,0 +1,158 @@
+@media (max-width: 1270px ) {
+    .container {
+        width: 100%;
+        margin: auto;
+        padding: 0 20px;
+    }
+}
+@media (max-width: 1199px ) {
+    .about-ditail {
+        padding: 23px 0;
+    }
+
+}
+@media (max-width: 1199px ) {
+    .team-bio a {
+        display: inline;
+    }
+    .service-content ul li { 
+        font-size: 16px;
+        margin-top: 12px;
+        
+    }
+}
+
+@media (max-width: 991px ) {
+    .banner-content {
+        width: 100%;
+    }
+    .banner-image img {
+        height: 454px;
+        margin-left: 19px;
+    }
+    .banner-section {
+        height: 464px;
+    }
+    .banner-content h5 {
+        margin-top: 79px !important;
+        font-size: 23px;
+    }
+    .banner-content p {
+        font-size: 16px;
+    }
+    .about-ditail {
+        padding: 18px 0;
+    }
+    .about-section h3 {
+        font-size: 27px;
+        margin-top: 5px;
+    }
+    .container {
+        max-width:100%;
+    }
+    .team-bio {
+        height: 267px;
+     
+    }
+    .team-content {
+        margin-top: 50px;
+    }
+    .team-image img {
+        top: 22px;
+        border-radius: 50%;
+    }
+    .team-section {
+        padding: 40px;
+        padding-bottom: 81px;
+    }
+    .service-section {
+        padding: 50px;
+        padding-bottom: 72px;
+    }
+    .contact-form a.btn.btn-primary {
+        width: 50%;
+        display: block;
+        margin: auto;
+        margin-top: 43px;
+    }
+    .about-section p {
+        margin-top: 10px;
+        font-size: 13px;
+        margin: 0;
+    }
+    .service-content ul li {
+        font-size: 14px;
+        margin-top: 13px;
+        font-weight: 100;
+        margin-right: 40px;
+    }
+    .service-content {
+        padding: 21px  0;
+        cursor: pointer;
+    }
+
+}
+@media (max-width: 767px ) {
+    .contact-form a.btn.btn-primary {
+        width: 100%;
+    }
+    .counter-number {
+        background: #f9f9f9;
+        padding: 45px;
+    }
+    .team-image img {
+        width: 65px;
+    }
+    .contact-bio {
+        padding: 40px 0;
+    }
+}
+@media (max-width: 575PX ) {
+    .banner-image img {
+        height: 329px;
+        position: absolute;
+        top: 100px;
+        right: 0;
+    }
+    .banner-content {
+        width: 50%;
+    }
+    .banner-content p {
+        font-size: 14px;
+        margin: 0;
+    }
+    .banner-content h2 {
+        font-size: 31px;
+        margin-bottom: 7px;
+    }
+    .banner-section {
+        height: 373px;
+    }
+    .about-ditail {
+        padding: 26px 0;
+        text-align: center;
+    }
+    a.btn.btn-primary {
+        margin-top: 33px;
+    }
+    .about-section {
+        padding: 57px 0;
+        padding-bottom: 29px;
+    }
+    .contact-section {
+        padding: 30px;
+        background-color: #9d9daf;
+    }
+    .contact-bio {
+        padding: 4px 0;
+        font-size: 19px;
+        text-align: center;
+    }
+    .number-item {
+        box-shadow: 4.5px 0.33px 30px 0 rgb(64 87 191 / 29%);
+        padding: 20px 0;
+        cursor: pointer;
+    }
+}
+@media (max-width: 1270px ) {}
+    
